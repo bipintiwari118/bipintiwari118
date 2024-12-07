@@ -2,7 +2,7 @@
 
 [![](https://komarev.com/ghpvc/?username=bipintiwari118&color=002d96&style=plastic&label=Profile+Views)](https://sureshchand12a.github.io/github-profile-builder/)
 - 🔭 I’m currently working on [HamroCSIT](https://hamrocsit.com/)
-- <br>- 🌱 I’m Laravel Developer <br><br>- 🌱 I’m currently learning Competitive Programming<br>- 👯 I’m looking to collaborate on [HamroCSIT](https://hamrocsit.com/)<br>- 🤔 I’m looking for help with Python<br>- 💬 Ask me about PHP, React Native or any related tech-related stuff<br>- 📫 How to reach me: [Twitter - @BipenBunny](https://twitter.com/BipenBunny), [Facebook - @Bipen.Tiwari.7](https://Facebook.com/Bipen.Tiwari.7)<br>- 😄 Pronouns: He/His/Bunny<br>- ⚡ Fun fact: I spend almost 12 hours in programming.
+- <br>- 🌱 I’m currently learning Competitive Programming<br>- 👯 I’m looking to collaborate on [HamroCSIT](https://hamrocsit.com/)<br>- 🤔 I’m looking for help with Python<br>- 💬 Ask me about PHP, React Native or any related tech-related stuff<br>- 📫 How to reach me: [Twitter - @BipenBunny](https://twitter.com/BipenBunny), [Facebook - @Bipen.Tiwari.7](https://Facebook.com/Bipen.Tiwari.7)<br>- 😄 Pronouns: He/His/Bunny<br>- ⚡ Fun fact: I spend almost 12 hours in programming.
 
 
 ## 👨 Social Profiles
